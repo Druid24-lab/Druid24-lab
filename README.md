@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Druid24-lab
-- 👀 I like fixing cars, programming and sci fi movies.
-- 🌱 I’m currently learning IoT Networking.
-- 💞️ I’m looking to collaborate & have fun.
+- 👋 Hi, I’m @Druid24-lab.
+- 👀 I like fixing cars, Tech & Pop music. 🛠️🧑‍💻🎧🎶
+- 🌱 I’m currently learning ☁️Cloud Administration.
 
 
 <!---
